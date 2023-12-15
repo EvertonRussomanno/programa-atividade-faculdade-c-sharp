@@ -1,4 +1,4 @@
-# Atividade Prática de Aprendizagem
+# Atividade Prática de Aprendizagem da Faculdade
 
 ## Desenvolva um algoritmo em C# que deverá ter as seguintes opções:
 
